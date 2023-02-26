@@ -1,5 +1,5 @@
 # Sample on netlify
-### https://tangerine-treacle-7efd12.netlify.app
+https://tangerine-treacle-7efd12.netlify.app
 
 ## Available Scripts
 
