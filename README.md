@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sample on netlify
+## https://tangerine-treacle-7efd12.netlify.app
 
 ## Available Scripts
 
